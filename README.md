@@ -10,6 +10,9 @@ https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practiti
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
 
+**HYML Study Material Links:**<br>
+https://www.w3schools.com/html/default.asp
+
 **Python Study Material Links:**<br>
 **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
