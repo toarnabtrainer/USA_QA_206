@@ -22,6 +22,11 @@ https://www.w3schools.com/html/default.asp
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
+**Take following actions:**<br>
+* Make Chrome as your default browser
+* Download and install Anaconda
+* Login from your system not from your mobile
+
 **Selenium Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
 https://pythonspot.com/category/selenium/<br>
